@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="cpu.c" open="1" top="0" tabpos="2">
+		<Cursor position="3679" topLine="76" />
+	</File>
+	<File name="cpu.h" open="1" top="0" tabpos="1">
+		<Cursor position="71" topLine="15" />
+	</File>
+	<File name="keys.c" open="1" top="0" tabpos="8">
+		<Cursor position="301" topLine="0" />
+	</File>
+	<File name="keys.h" open="1" top="0" tabpos="7">
+		<Cursor position="294" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="9">
+		<Cursor position="860" topLine="50" />
+	</File>
+	<File name="opcodes.c" open="1" top="0" tabpos="4">
+		<Cursor position="39633" topLine="517" />
+	</File>
+	<File name="opcodes.h" open="1" top="0" tabpos="3">
+		<Cursor position="569" topLine="0" />
+	</File>
+	<File name="screen.c" open="1" top="1" tabpos="6">
+		<Cursor position="3797" topLine="96" />
+	</File>
+	<File name="screen.h" open="1" top="0" tabpos="5">
+		<Cursor position="1301" topLine="10" />
+	</File>
+</CodeBlocks_layout_file>

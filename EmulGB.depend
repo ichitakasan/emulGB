@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1335639489 source:/home/ichitaka/WORK/PROGRAMMING/codeblocks/EmulGB/cpu.c
+	"cpu.h"
+
+1335657788 /home/ichitaka/WORK/PROGRAMMING/codeblocks/EmulGB/cpu.h
+	<SDL/SDL.h>
+
+1335656076 source:/home/ichitaka/WORK/PROGRAMMING/codeblocks/EmulGB/main.c
+	"cpu.h"
+	"screen.h"
+	"keys.h"
+
+1335656583 source:/home/ichitaka/WORK/PROGRAMMING/codeblocks/EmulGB/screen.c
+	"screen.h"
+
+1335656093 /home/ichitaka/WORK/PROGRAMMING/codeblocks/EmulGB/screen.h
+	<SDL/SDL.h>
+
+1335656110 source:/home/ichitaka/WORK/PROGRAMMING/codeblocks/EmulGB/keys.c
+	"keys.h"
+
+1335656912 /home/ichitaka/WORK/PROGRAMMING/codeblocks/EmulGB/keys.h
+	<SDL/SDL.h>
+
+1335640660 /home/ichitaka/WORK/PROGRAMMING/codeblocks/EmulGB/opcodes.h
+	<SDL/SDL.h>
+	"cpu.h"
+
+1335657916 source:/home/ichitaka/WORK/PROGRAMMING/codeblocks/EmulGB/opcodes.c
+	"opcodes.h"
+
